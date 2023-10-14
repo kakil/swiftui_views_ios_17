@@ -819,6 +819,7 @@
 		59EE491C23FF270900845934 /* Overlay_Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EE491B23FF270900845934 /* Overlay_Images.swift */; };
 		59F305F0251A402100EC2DBC /* Rotation_RotatingShapesInCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59F305EF251A402100EC2DBC /* Rotation_RotatingShapesInCircle.swift */; };
 		96688C0A2ADAF0E8002DED74 /* KVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */; };
+		96688C0C2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1639,6 +1640,7 @@
 		59EE491B23FF270900845934 /* Overlay_Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Overlay_Images.swift; sourceTree = "<group>"; };
 		59F305EF251A402100EC2DBC /* Rotation_RotatingShapesInCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rotation_RotatingShapesInCircle.swift; sourceTree = "<group>"; };
 		96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro.swift; sourceTree = "<group>"; };
+		96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_spacing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1943,6 +1945,7 @@
 				4D346BB82340F0B10076E7B8 /* Vstack_Spacing.swift */,
 				4D346BB72340F0B10076E7B8 /* VStack_Alignment.swift */,
 				96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */,
+				96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */,
 			);
 			path = VerticalStack;
 			sourceTree = "<group>";
@@ -4753,6 +4756,7 @@
 				595E6BC8254B3EA900020B55 /* LayoutConcepts.swift in Sources */,
 				4D346C7B2340F1B60076E7B8 /* TabView_Intro.swift in Sources */,
 				4D346BBA2340F0B10076E7B8 /* GeometryReader_Intro.swift in Sources */,
+				96688C0C2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift in Sources */,
 				4D1EDF2227EFB6BC009ABDF6 /* ActionSheet_OnIpad.swift in Sources */,
 				4DA78E8E27986EFC006DABB3 /* FB_FocusStateCrash.swift in Sources */,
 				4D346CDF2340F28B0076E7B8 /* Rectangular_Stokes.swift in Sources */,
