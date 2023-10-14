@@ -820,6 +820,7 @@
 		59F305F0251A402100EC2DBC /* Rotation_RotatingShapesInCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59F305EF251A402100EC2DBC /* Rotation_RotatingShapesInCircle.swift */; };
 		96688C0A2ADAF0E8002DED74 /* KVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */; };
 		96688C0C2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */; };
+		96688C0E2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1641,6 +1642,7 @@
 		59F305EF251A402100EC2DBC /* Rotation_RotatingShapesInCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rotation_RotatingShapesInCircle.swift; sourceTree = "<group>"; };
 		96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro.swift; sourceTree = "<group>"; };
 		96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_spacing.swift; sourceTree = "<group>"; };
+		96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_alignment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1946,6 +1948,7 @@
 				4D346BB72340F0B10076E7B8 /* VStack_Alignment.swift */,
 				96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */,
 				96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */,
+				96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */,
 			);
 			path = VerticalStack;
 			sourceTree = "<group>";
@@ -4896,6 +4899,7 @@
 				4D346DFE23412E2A0076E7B8 /* Scale_Intro.swift in Sources */,
 				4DA8AD9228C395E400B4D377 /* LabeledContent_Content.swift in Sources */,
 				595A550F24B58264009810E8 /* IndexViewStyle_Intro.swift in Sources */,
+				96688C0E2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift in Sources */,
 				4D346C882340F1B70076E7B8 /* Text_TruncationMode.swift in Sources */,
 				4D346CCE2340F28B0076E7B8 /* Color_LightDarkMode.swift in Sources */,
 				4D346C822340F1B60076E7B8 /* Text_Formatting.swift in Sources */,
