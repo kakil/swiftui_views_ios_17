@@ -821,6 +821,7 @@
 		96688C0A2ADAF0E8002DED74 /* KVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */; };
 		96688C0C2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */; };
 		96688C0E2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */; };
+		966DE8D32ADD9FDD00B80B13 /* kLazyVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1643,6 +1644,7 @@
 		96688C092ADAF0E8002DED74 /* KVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro.swift; sourceTree = "<group>"; };
 		96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_spacing.swift; sourceTree = "<group>"; };
 		96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_alignment.swift; sourceTree = "<group>"; };
+		966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_Intro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3861,6 +3863,7 @@
 				595BD8A224B01CD2005AB91B /* LazyVStack_Alignment.swift */,
 				595BD8A424B01CE3005AB91B /* LazyVStack_WithScrolling.swift */,
 				595BD8A624B01CF8005AB91B /* LazyVStack_PinnedViews.swift */,
+				966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */,
 			);
 			path = LazyVStack;
 			sourceTree = "<group>";
@@ -4709,6 +4712,7 @@
 				59EA3BCF24A2C29C009BC0D0 /* LazyHStack_WithScrolling.swift in Sources */,
 				368F2CA326AB8CD800C95880 /* Toolbar_ControlGroup.swift in Sources */,
 				4D7159C6267118AC00EB43E0 /* Button_Role.swift in Sources */,
+				966DE8D32ADD9FDD00B80B13 /* kLazyVStack_Intro.swift in Sources */,
 				59ABDD6E24A5465A0020B7FB /* Toggle_Color.swift in Sources */,
 				360DC13D26A474C400A64D89 /* List_HeaderFooter_Automatic.swift in Sources */,
 				59A4376025E415EA00604A6A /* OnPreferenceChange_Intro.swift in Sources */,
