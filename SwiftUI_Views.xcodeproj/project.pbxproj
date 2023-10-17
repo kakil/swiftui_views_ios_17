@@ -824,6 +824,7 @@
 		966DE8D32ADD9FDD00B80B13 /* kLazyVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */; };
 		966DE8D52ADDA32500B80B13 /* kLazyVStack_alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */; };
 		966DE8D92ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D82ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift */; };
+		966DE8DB2ADF1AEC00B80B13 /* kLazyVStack_PinnedViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8DA2ADF1AEC00B80B13 /* kLazyVStack_PinnedViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1649,6 +1650,7 @@
 		966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_Intro.swift; sourceTree = "<group>"; };
 		966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_alignment.swift; sourceTree = "<group>"; };
 		966DE8D82ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_WithScrolling.swift; sourceTree = "<group>"; };
+		966DE8DA2ADF1AEC00B80B13 /* kLazyVStack_PinnedViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_PinnedViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3870,6 +3872,7 @@
 				966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */,
 				966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */,
 				966DE8D82ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift */,
+				966DE8DA2ADF1AEC00B80B13 /* kLazyVStack_PinnedViews.swift */,
 			);
 			path = LazyVStack;
 			sourceTree = "<group>";
@@ -4626,6 +4629,7 @@
 				4D346CE42340F28B0076E7B8 /* Divider_Intro.swift in Sources */,
 				4D0807D6236FD909002C8830 /* ExclusiveGesture_Intro.swift in Sources */,
 				4D346D7023412C9C0076E7B8 /* FixedSize_Intro.swift in Sources */,
+				966DE8DB2ADF1AEC00B80B13 /* kLazyVStack_PinnedViews.swift in Sources */,
 				4D346E1D23412E2A0076E7B8 /* Blur_Intro.swift in Sources */,
 				59C1837A24B2CB6900F1D2B1 /* ProgressView_Customizing.swift in Sources */,
 				360DC13626A3B82900A64D89 /* List_ListStyle_Grouped.swift in Sources */,
