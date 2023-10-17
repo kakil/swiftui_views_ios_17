@@ -823,6 +823,7 @@
 		96688C0E2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */; };
 		966DE8D32ADD9FDD00B80B13 /* kLazyVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */; };
 		966DE8D52ADDA32500B80B13 /* kLazyVStack_alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */; };
+		966DE8D92ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D82ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1647,6 +1648,7 @@
 		96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_alignment.swift; sourceTree = "<group>"; };
 		966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_Intro.swift; sourceTree = "<group>"; };
 		966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_alignment.swift; sourceTree = "<group>"; };
+		966DE8D82ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_WithScrolling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3866,6 +3868,8 @@
 				595BD8A424B01CE3005AB91B /* LazyVStack_WithScrolling.swift */,
 				595BD8A624B01CF8005AB91B /* LazyVStack_PinnedViews.swift */,
 				966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */,
+				966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */,
+				966DE8D82ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift */,
 			);
 			path = LazyVStack;
 			sourceTree = "<group>";
@@ -4123,7 +4127,6 @@
 			isa = PBXGroup;
 			children = (
 				59CB802E256418F400DC7254 /* LazyVStack_Table.swift */,
-				966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */,
 			);
 			path = NotInBook;
 			sourceTree = "<group>";
@@ -4294,6 +4297,7 @@
 				4DA8ADA228C3D97600B4D377 /* PhotosPicker_MultipleItems.swift in Sources */,
 				3654FA3326ADE2AF00A19AE6 /* Text_TimeFormatting.swift in Sources */,
 				591717E124B8CF8600BDD191 /* AlignmentGuide_Intro.swift in Sources */,
+				966DE8D92ADF17F800B80B13 /* kLazyVStack_WithScrolling.swift in Sources */,
 				4D346CD12340F28B0076E7B8 /* Color_Inverting.swift in Sources */,
 				4D346E2523412E2A0076E7B8 /* CornerRadius_Intro.swift in Sources */,
 				4D500B2D28C3FAA8004F6348 /* ShareLink_Intro.swift in Sources */,
