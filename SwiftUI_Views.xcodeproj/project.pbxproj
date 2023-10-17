@@ -822,6 +822,7 @@
 		96688C0C2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */; };
 		96688C0E2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */; };
 		966DE8D32ADD9FDD00B80B13 /* kLazyVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */; };
+		966DE8D52ADDA32500B80B13 /* kLazyVStack_alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1645,6 +1646,7 @@
 		96688C0B2ADAF2F1002DED74 /* KVStack_Intro_spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_spacing.swift; sourceTree = "<group>"; };
 		96688C0D2ADAF4A9002DED74 /* KVStack_Intro_alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KVStack_Intro_alignment.swift; sourceTree = "<group>"; };
 		966DE8D22ADD9FDD00B80B13 /* kLazyVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_Intro.swift; sourceTree = "<group>"; };
+		966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kLazyVStack_alignment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -4121,6 +4123,7 @@
 			isa = PBXGroup;
 			children = (
 				59CB802E256418F400DC7254 /* LazyVStack_Table.swift */,
+				966DE8D42ADDA32500B80B13 /* kLazyVStack_alignment.swift */,
 			);
 			path = NotInBook;
 			sourceTree = "<group>";
@@ -4731,6 +4734,7 @@
 				4D346D3423412B860076E7B8 /* ActionSheet_Intro.swift in Sources */,
 				59B43B5A266164C000316934 /* Accessibility_Images.swift in Sources */,
 				4D346D7123412C9C0076E7B8 /* FixedSize_HorizontalVertical.swift in Sources */,
+				966DE8D52ADDA32500B80B13 /* kLazyVStack_alignment.swift in Sources */,
 				599A5DDC24CA44BC0098D197 /* Menu_InsideMenu.swift in Sources */,
 				4D346E3223412E2A0076E7B8 /* Scale.swift in Sources */,
 				4D346E0723412E2A0076E7B8 /* Shadow_OrderMatters.swift in Sources */,
